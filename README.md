@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**jbenzzz/jbenzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Legacy / Early Learning Projects  
+*(Pre-AI era — Learning to Code during my Bachelors degree)*  
 
-Here are some ideas to get you started:
+These are some small older projects I worked during University projects and for fun. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [TM4C-MQTT-Controller-IoT-Project](https://github.com/jbenzzz/TM4C-MQTT-Controller-IoT-Project)  
+  Embedded C programming for distributed systems using an IoT setup with MQTT communication.  
+
+- [Pong-game](https://github.com/jbenzzz/Pong-game)  
+  A classic Pong clone developed in **C# with Unity**, experimenting with game development and physics.  
+
+- [TRainingsplaner](https://github.com/jbenzzz/Trainingsplaner-)  
+  Small **Java + JavaFX** desktop application for planning training sessions.  

@@ -1,7 +1,3 @@
-## Hi there 👋
-
-
-
 ## 🔬 Active Research Projects  
 These are the main research projects I’ve focused on during the last semesters of my master’s degree. Both projects aim to lead to publications (and the master thesis is still in its early stages). Repositories are currently private but will be made public once the work is finalized.  
 

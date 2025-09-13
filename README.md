@@ -1,5 +1,41 @@
 ## Hi there 👋
 
+
+
+## 🔬 Active Research Projects  
+These are the main research projects I’ve focused on during the last semesters of my master’s degree. Both projects aim to lead to publications (and the master thesis is still in its early stages). Repositories are currently private but will be made public once the work is finalized.  
+
+### 🚦 Master’s Thesis: VLM-based Detection of Safety-Critical Events in Traffic  
+*(in progress, core of my master’s thesis)*  
+
+**Goal**  
+- Use Vision-Language Models (VLMs) to detect and retrieve safety-critical or anomalous driving events from raw traffic video.  
+- Application domain: autonomous driving and intelligent transport systems.  
+
+**Methods**  
+- Build multimodal pipelines combining video understanding with natural language descriptions.  
+- Evaluate how well VLMs understand dynamic scene attributes and semantic context.  
+
+**Status**  
+- Currently under development (Thesis Timeline: August – January)  
+
+### 📈 News Market Impact Analysis  
+*(finished project, research paper in preparation)*  
+
+**Goal**  
+- Investigate how macroeconomic news and central bank communications affect option-implied risk measures (variance, skewness, kurtosis).  
+
+**Methods**  
+- High-frequency regressions on S&P 500 options across ~195 news categories.  
+- Address econometric challenges such as skewed distributions, multicollinearity, and ensure robustness using Lasso/Ridge.  
+
+**Tools**  
+- Python pipeline for preprocessing and regression analysis.  
+- Interactive Plotly dashboard for quantifying impacts, highlighting influential news sets, and analyzing effects across maturities.  
+
+
+
+
 ### 🧠 Machine Learning / Data Analytics Projects  
 *(First steps into ML and CV — mostly small projects in Python, exploring training, object detection pipelines, and data analysis)*  
 

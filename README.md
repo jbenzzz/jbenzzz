@@ -5,38 +5,28 @@
 ## 🔬 Active Research Projects  
 These are the main research projects I’ve focused on during the last semesters of my master’s degree. Both projects aim to lead to publications (and the master thesis is still in its early stages). Repositories are currently private but will be made public once the work is finalized.  
 
-### 🚦 Master’s Thesis: VLM-based Detection of Safety-Critical Events in Traffic  
-*(in progress, core of my master’s thesis)*  
+### 🚦 Master's Thesis: VLM-based Detection of Safety-Critical Events in Traffic
+<div align="left">
+<img src="pipeline (1).png" alt="Pipeline" width="380" align="right" style="margin-left: 20px;">
+  
+  *(in progress, core of my master's thesis)*
 
-**Goal**  
-- Use Vision-Language Models (VLMs) to detect and retrieve safety-critical or anomalous driving events from raw traffic video.  
-- Application domain: autonomous driving and intelligent transport systems.  
+- Use Vision-Language Models to detect anomalous driving events from traffic video
+- Build multimodal pipelines combining video understanding with natural language
+- Timeline: August – January
 
-**Methods**  
-- Build multimodal pipelines combining video understanding with natural language descriptions.  
-- Evaluate how well VLMs understand dynamic scene attributes and semantic context.  
+### 📈 News Market Impact Analysis
+*(finished project, research paper in preparation)*
 
-**Status**  
-- Currently under development (Thesis Timeline: August – January)  
+- Investigate how macroeconomic news and central bank communications affect option-implied risk measures (variance, skewness, kurtosis)
+- High-frequency regressions on S&P 500 options across ~195 news categories
+- Address econometric challenges (skewed distributions, multicollinearity) using Lasso/Ridge regularization
+- Python pipeline for preprocessing and regression analysis (see figure)
+- Interactive Plotly dashboard for quantifying impacts, highlighting influential news sets, and analyzing effects across maturities
 
-### 📈 News Market Impact Analysis  
-*(finished project, research paper in preparation)*  
+</div>
 
-**Goal**  
-- Investigate how macroeconomic news and central bank communications affect option-implied risk measures (variance, skewness, kurtosis).  
-
-**Methods**  
-- High-frequency regressions on S&P 500 options across ~195 news categories.  
-- Address econometric challenges such as skewed distributions, multicollinearity, and ensure robustness using Lasso/Ridge.  
-
-**Tools**  
-- Python pipeline for preprocessing and regression analysis.  
-- Interactive Plotly dashboard for quantifying impacts, highlighting influential news sets, and analyzing effects across maturities.  
-
-
-
-
-### 🧠 Machine Learning / Data Analytics Projects  
+## 🧠 Machine Learning / Data Analytics Projects  
 *(First steps into ML and CV — mostly small projects in Python, exploring training, object detection pipelines, and data analysis)*  
 
 These projects reflect my growing interest in machine learning and data science. They aren’t large-scale systems, but each one was a way to practice different methods and tools, mostly with a focus on computer vision.  
@@ -55,7 +45,7 @@ These projects reflect my growing interest in machine learning and data science.
 
 
 
-### 🎓 Legacy / Early Learning Projects  
+## 🎓 Legacy / Early Learning Projects  
 *(Pre-AI era — Learning to Code during my Bachelors degree)*  
 
 These are some small older projects I worked during University projects and for fun. 

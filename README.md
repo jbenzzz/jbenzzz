@@ -1,5 +1,24 @@
 ## Hi there 👋
 
+### 🧠 Machine Learning / Data Analytics Projects  
+*(First steps into ML and CV — mostly small projects in Python, exploring training, object detection pipelines, and data analysis)*  
+
+These projects reflect my growing interest in machine learning and data science. They aren’t large-scale systems, but each one was a way to practice different methods and tools, mostly with a focus on computer vision.  
+
+- [Traffic-Video-Anonymizer](https://github.com/jbenzzz/Traffic-Video-Anonymizer)  
+  Tool for research and dataset publication: automated, configurable anonymization of traffic videos.  
+
+- [Multi-Camera-Stream-Intersection-Finder](https://github.com/jbenzzz/Multi-Camera-Stream-Intersection-Finder)  
+  Pipeline for automatically retrieving intersection footage across multiple cameras.  
+
+- [Captcha-Code-Classifier](https://github.com/jbenzzz/Captcha-Code-Classifier)  
+  Small project for classifying CAPTCHA images with neural networks.  
+
+- [Graph-based-Environmental-Treaty-Analysis](https://github.com/jbenzzz/Graph-based-Environmental-Treaty-Analysis)  
+  University project using graph-based methods to analyze international environmental treaties.  
+
+
+
 ### 🎓 Legacy / Early Learning Projects  
 *(Pre-AI era — Learning to Code during my Bachelors degree)*  
 
